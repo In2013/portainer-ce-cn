@@ -1,6 +1,6 @@
 #!/bin/bash
 cd /root/ &&
-curl -sL https://github.com/eysp/public/archive/public.tar.gz | tar xz &&
+curl -sL https://github.com/In2013/portainer-ce-cn/archive/refs/tags/public.tar.gz | tar xz &&
 rm -rf public &&
 mv public-public public &&
 docker stop portainer &&

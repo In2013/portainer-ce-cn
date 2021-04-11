@@ -1,5 +1,4 @@
-# public
-portainer-ce 汉化文件
+# portainer-ce 汉化文件
 
 X86 CPU一键安装
 ```
